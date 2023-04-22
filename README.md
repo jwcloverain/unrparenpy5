@@ -1,2 +1,2 @@
 # DecompileRenpy5
-Decompile Renpy5.x rpa file
+从renpy 5.0 解压rpa文件
